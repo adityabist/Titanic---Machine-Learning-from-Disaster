@@ -1,10 +1,8 @@
 # Titanic---Machine-Learning-from-Disaster
 Start here! Predict survival on the Titanic and get familiar with ML basics
-# Regression_Analysis_House_Price_Prediction_Kaggle
-Kaggle Competition - Trying to predict House Prices
-House Prices - Advanced Regression Techniques
+Kaggle Competition - Trying to predict passenger Survivability
 
-This project will try to predict sriviability of passengers using the Tittanic dataset. It will consider both categorical and non categorical features. Also, it will make use of the _LogisticRegression_ regression model to predict the prices.
+This project will try to predict survivability of passengers using the Titanic dataset. It will consider both categorical and non categorical features. Also, it will make use of the _LogisticRegression_ regression model to predict the prices.
 
 
 - 👋 Hi, I’m @adityabist
@@ -15,7 +13,7 @@ This project will try to predict sriviability of passengers using the Tittanic d
 ## 🛠 Skills
 - Python
 - Statistical methods
-- Regression Model Understanding
+- Logistical Regression Model Understanding
 
 ## Installation
 Install my-project with the following programs:
